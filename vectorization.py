@@ -25,3 +25,4 @@ toc = time.time()
 print(c)
 print("for loop:"+str(1000*(toc-tic))+"ms")
 
+
